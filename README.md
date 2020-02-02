@@ -1,2 +1,2 @@
-# MasterDataWithJoy
-Enjoy the magic landscape!
+# Enjoy the magic landscape!
+
